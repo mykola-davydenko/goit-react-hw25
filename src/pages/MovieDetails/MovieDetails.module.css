@@ -1,0 +1,3 @@
+.back { display: inline-block;
+     margin-bottom: 15px; }
+.info { display: flex; gap: 20px; }

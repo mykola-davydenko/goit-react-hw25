@@ -1,0 +1,4 @@
+.header { display: flex; gap: 20px; padding: 15px 20px; background: #fff; border-bottom: 1px solid #ccc; }
+.link { text-decoration: none; color: #222; }
+.active { text-decoration: none; color: orangered; font-weight: bold; }
+.main { padding: 20px; }
